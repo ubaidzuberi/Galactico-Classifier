@@ -1,5 +1,5 @@
 # Galactico-Classifier
-Facial recognition software made using ML classification algorithms. This project used the pywavelet library and haarcascade files to recognise the faces.
+Facial recognition software made using ML classification algorithms. This project used the pywavelet library and haarcascade files to recognise the faces. The model can be deployed using a flask server.
 
 ## Final Deployed Product:
 Default page:
